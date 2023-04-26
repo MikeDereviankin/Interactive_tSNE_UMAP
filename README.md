@@ -1,4 +1,9 @@
 # Interactive GUI for tSNE and UMAP
+
+Copyright (c) 2023 Mike Dereviankin
+
+This repository contains code that is available under a MIT license.
+
 ## Introduction
 
 This R code provides an interactive GUI for exploring dimensionality reduction techniques on a given dataset. The script creates visualizations of tSNE and UMAP projections of the data, allowing users to interact with and manipulate the projections. The code is written in R and uses several libraries such as ggplot2, dplyr, plotly and Rtsne among others. See the attached video to see the ouputs from the source code. 
